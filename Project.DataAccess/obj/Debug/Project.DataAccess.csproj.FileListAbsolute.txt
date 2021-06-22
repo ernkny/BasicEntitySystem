@@ -1,0 +1,15 @@
+C:\Users\erenk\source\repos\Proje.EntitySystem\Project.DataAccess\bin\Debug\Project.DataAccess.dll
+C:\Users\erenk\source\repos\Proje.EntitySystem\Project.DataAccess\bin\Debug\Project.DataAccess.pdb
+C:\Users\erenk\source\repos\Proje.EntitySystem\Project.DataAccess\bin\Debug\Proje.Entity.dll
+C:\Users\erenk\source\repos\Proje.EntitySystem\Project.DataAccess\bin\Debug\Proje.Entity.pdb
+C:\Users\erenk\source\repos\Proje.EntitySystem\Project.DataAccess\obj\Debug\Project.DataAccess.csproj.AssemblyReference.cache
+C:\Users\erenk\source\repos\Proje.EntitySystem\Project.DataAccess\obj\Debug\Project.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\erenk\source\repos\Proje.EntitySystem\Project.DataAccess\obj\Debug\Project.DataAccess.csproj.CopyComplete
+C:\Users\erenk\source\repos\Proje.EntitySystem\Project.DataAccess\obj\Debug\Project.DataAccess.dll
+C:\Users\erenk\source\repos\Proje.EntitySystem\Project.DataAccess\obj\Debug\Project.DataAccess.pdb
+C:\Users\erenk\source\repos\Proje.EntitySystem\Project.DataAccess\bin\Debug\Project.DataAccess.dll.config
+C:\Users\erenk\source\repos\Proje.EntitySystem\Project.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\erenk\source\repos\Proje.EntitySystem\Project.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erenk\source\repos\Proje.EntitySystem\Project.DataAccess\bin\Debug\Proje.Entity.dll.config
+C:\Users\erenk\source\repos\Proje.EntitySystem\Project.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\erenk\source\repos\Proje.EntitySystem\Project.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
